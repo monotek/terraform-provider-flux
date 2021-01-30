@@ -198,8 +198,8 @@ github.com/evanphx/json-patch v4.9.0+incompatible h1:kLcOMZeuLAJvL2BPWLMIj5oaZQo
 github.com/evanphx/json-patch v4.9.0+incompatible/go.mod h1:50XU6AFN0ol/bzJsmQLiYLvXMP4fmwYFNcr97nuDLSk=
 github.com/fatih/color v1.7.0 h1:DkWD4oS2D8LGGgTQ6IvwJJXSL5Vp2ffcQg58nFV38Ys=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
-github.com/fluxcd/flux2 v0.7.3 h1:HDELTIL+YVoDF4JGK/lveI0xmWEojC0sp0YYSMwK6b0=
-github.com/fluxcd/flux2 v0.7.3/go.mod h1:nVP0MO/wZHJE0BCW6un0jwuZcG5O501CnjK/+kNRNRA=
+github.com/fluxcd/flux2 v0.7.4 h1:Qe+GMmo9KaGraBoemZHG6JcF6f9lcBLs7isLZ76ZTms=
+github.com/fluxcd/flux2 v0.7.4/go.mod h1:nVP0MO/wZHJE0BCW6un0jwuZcG5O501CnjK/+kNRNRA=
 github.com/fluxcd/helm-controller/api v0.6.1/go.mod h1:vd4Nt6ZZlDkXwJLkmHRgvNc1bvBPMEIZ0o1qFyEWglo=
 github.com/fluxcd/image-automation-controller/api v0.4.0/go.mod h1:lHGxbFJNIwgK32YWx9uNf4WR/Z92Hdrl8cn6TzixfUI=
 github.com/fluxcd/image-reflector-controller/api v0.4.1/go.mod h1:MS3mGjZLnzZsfSqVLGbp0WNJr/k8XRFpw4G6ApLFTbc=
